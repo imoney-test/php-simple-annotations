@@ -1,4 +1,5 @@
 # PHP Simple Annotations
+[![Build Status](https://travis-ci.org/imoney-test/php-simple-annotations.svg?branch=master)](https://travis-ci.org/imoney-test/php-simple-annotations)
 
 ## Installation
 
